@@ -3,7 +3,7 @@ import React from "react";
 
 function AllInOne() {
   return (
-    <div className="w-full my-32">
+    <div name='platforms' className="w-full my-32">
       <div className="max-w-[1240px] mx-auto px-4">
         <h2 className="text-center text-5xl font-bold"> All-In-One Platform</h2>
         <p className=" text-2xl py-8 text-gray-600 ">

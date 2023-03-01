@@ -4,6 +4,7 @@ import About from './component/About'
 import Support from './component/Support'
 import AllInOne from './component/AllInOne'
 import Pricing from './component/Pricing'
+import Footer from './component/Footer'
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
        <Support/>
        <AllInOne/>
        <Pricing/>
+       <Footer/>
     </div>
   )
 }
